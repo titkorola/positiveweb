@@ -21,17 +21,29 @@ justify-items: center;
 }
 .mid-content{
     position: absolute;
-    width: 1072px;
+    width: 1000px;
     height: 723.3px;
-    left: 700px;
+    left: 900px;
     top: 939px;
 }
 .second-image{
-    width: 1600px;
-    height: 808px;
+    width: 100px;
+    height: 908px;
     left: 50px;
     top: 0;
-    right: 0;
-    margin-left: 0px;
+    right: 20px;
+    margin-left: 50px;
     margin-right: 20px;
-
+   
+ul{
+    list-style: none;
+}
+.middle{
+    display: flex;
+}
+.mid-area{
+    width: 1072px;
+    height: 723.3px;
+    top: 939px;
+    left: 206px;
+}
