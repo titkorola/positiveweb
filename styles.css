@@ -1,0 +1,37 @@
+.b-image{
+
+width: 1600px;
+height: 808px;
+left: 50px;
+top: 0;
+right: 0;
+margin-left: 20px;
+margin-right: 20px;
+justify-items: center;
+
+}
+.first-content{
+    position: absolute;
+    width: 525px;
+    height: 228px;
+    left: 1260px;
+    top: 216px;
+    color: antiquewhite;
+;
+}
+.mid-content{
+    position: absolute;
+    width: 1072px;
+    height: 723.3px;
+    left: 700px;
+    top: 939px;
+}
+.second-image{
+    width: 1600px;
+    height: 808px;
+    left: 50px;
+    top: 0;
+    right: 0;
+    margin-left: 0px;
+    margin-right: 20px;
+
