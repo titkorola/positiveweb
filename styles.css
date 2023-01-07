@@ -65,7 +65,9 @@ top: 1416px;
 
 .plan-text {
     text-align: center;
-    font-size: 25px;
+    font-size: 40px;
+    bottom: 20px;
+   
 }
 
 .plan-container {
@@ -94,6 +96,13 @@ top: 1416px;
     margin-left:265px;
     margin-right:80px;
     
+}
+.follow-btn{
+    width: 90px;
+    height: 40px;
+    font-size: 30px;
+    font: white;
+
 }
 
 .footer-style{
